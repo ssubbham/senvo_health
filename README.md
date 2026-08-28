@@ -33,7 +33,7 @@ A state-of-the-art mobile application that uses smartphone camera photoplethysmo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/raamen-sih.git
+   git clone https://github.com/ssubbham/senvo_health.git
    cd raamen-sih
    ```
 
@@ -289,8 +289,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-org/raamen-sih/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/raamen-sih/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ssubbham/senvo_health/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ssubbham/senvo_health/discussions)
 - **Email**: [contact email]
 
 ## 🔮 Roadmap

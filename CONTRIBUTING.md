@@ -161,7 +161,7 @@ Reviewers will check:
 
 ## Questions?
 
-- Check existing [GitHub issues](https://github.com/your-org/raamen-sih/issues)
+- Check existing [GitHub issues](https://github.com/ssubbham/senvo_health/issues)
 - Review [docs/](docs/) directory
 - Create a new discussion or issue
 
