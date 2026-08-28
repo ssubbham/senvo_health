@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Senvo! We welcome contributions f
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/raamen-sih.git`
+2. Clone your fork: `git clone https://github.com/yourusername/senvo_health.git`
 3. Create a feature branch: `git checkout -b feature/your-feature-name`
 4. Follow the setup instructions in [docs/SETUP.md](docs/SETUP.md)
 

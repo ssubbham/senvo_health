@@ -7,7 +7,7 @@
 The project has been reorganized into a clean, scalable Flutter + Python structure:
 
 ```
-raamen-sih/
+senvo_health/
 ├── 📱 lib/                      # Flutter Mobile App
 │   ├── main.dart                # App entry point
 │   ├── core/                    # Core utilities & constants

@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-raamen-sih/
+senvo_health/
 ├── lib/                          # Flutter app source code
 │   ├── main.dart                 # App entry point
 │   ├── core/                     # Core utilities and constants

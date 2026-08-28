@@ -15,7 +15,7 @@
 
 ```bash
 # Navigate to project directory
-cd raamen-sih
+cd senvo_health
 
 # Get Flutter dependencies
 flutter pub get

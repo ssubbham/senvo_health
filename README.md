@@ -34,7 +34,7 @@ A state-of-the-art mobile application that uses smartphone camera photoplethysmo
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ssubbham/senvo_health.git
-   cd raamen-sih
+   cd senvo_health
    ```
 
 2. **Get dependencies**
@@ -65,7 +65,7 @@ A state-of-the-art mobile application that uses smartphone camera photoplethysmo
 ## 🏗️ Project Structure
 
 ```
-raamen-sih/
+senvo_health/
 ├── lib/                          # Flutter application
 │   ├── main.dart                 # App entry point
 │   ├── core/                     # Core utilities
