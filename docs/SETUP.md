@@ -1,5 +1,7 @@
 # Senvo PPG Scanner - Setup Guide
 
+Project developed by **Team The_Underbets** (C. V. Raman Global University) for **Smart India Hackathon 2026**.
+
 ## Prerequisites
 
 - Flutter SDK 3.13.1+

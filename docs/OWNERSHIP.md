@@ -2,14 +2,22 @@ The Underbets Ownership Statement
 
 This document certifies ownership and intellectual property rights for the Senvo PPG Scanner project.
 
-Date: August 27, 2026
+Date: August 28, 2026
 Project: Senvo - Camera-Based PPG Heart Rate Scanner
 Technology: Flutter Mobile App + Python Backend + ML Models
 
 Ownership Structure:
-- Primary Developer: Subha
-- Project Lead: [Name]
-- Organization: [Organization Name]
+- Team Name: The_Underbets
+- Organization: C. V. Raman Global University
+- Event: Smart India Hackathon 2026
+
+Team Members:
+1. Pratik Raj (Team Leader)
+2. Anjali Kumari
+3. Abhineet
+4. Soumyashree Panigrahi
+5. Subham Kumar
+6. Amlan Das
 
 All code, documentation, and assets in this repository are owned and maintained according to the terms outlined in the LICENSE file.
 

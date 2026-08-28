@@ -20,6 +20,19 @@ A state-of-the-art mobile application that uses smartphone camera photoplethysmo
 - **🤖 ML-Ready**: TensorFlow Lite model integration for enhanced vitals estimation
 - **📈 Analytics Dashboard**: Historical data tracking and trend analysis
 
+## 👥 The Team - The_Underbets
+
+Developed by team **The_Underbets** from **C. V. Raman Global University** for **Smart India Hackathon 2026**.
+
+| Name | Role | Stream | Academic Year |
+|------|------|--------|---------------|
+| **Pratik Raj** | Team Leader | CS IT | 2024 |
+| **Anjali Kumari** | Team Member | CSE (IoT & Cs) | 2024 |
+| **Abhineet** | Team Member | CSE | 2024 |
+| **Soumyashree Panigrahi** | Team Member | CSE (AIML) | 2024 |
+| **Subham Kumar** | Team Member | ECE | 2024 |
+| **Amlan Das** | Team Member | CSE | 2024 |
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -277,9 +290,15 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 👥 Credits
 
 **Development Team**:
-- Subha - Primary Developer
+- **The_Underbets** (C. V. Raman Global University)
 
-**Contributors**: Thanks to all contributors who have helped with code, testing, and documentation!
+**Key Contributors**:
+- **Subha** - Primary Developer
+- **Pratik Raj** - Team Coordination
+- **Anjali Kumari** - UI/UX Design
+- **Abhineet** - Backend & Signal Processing
+- **Soumyashree Panigrahi** - ML & Data Analysis
+- **Amlan Das** - Testing & Documentation
 
 **Acknowledgments**:
 - Flutter team for excellent documentation
@@ -324,8 +343,8 @@ If you find this project useful, please:
 
 ---
 
-**Last Updated**: August 27, 2026  
-**Maintainer**: Subha  
+**Last Updated**: August 28, 2026  
+**Maintainer**: Team The_Underbets  
 **Status**: Active Development 🚀
 
-Made with ❤️ by the Senvo team
+Made with ❤️ by The_Underbets team
